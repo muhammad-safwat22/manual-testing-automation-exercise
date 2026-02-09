@@ -27,7 +27,7 @@ View-only Trello board:
 [https://trello.com/b/JdxpLAHW/automation-exercise-test-scenarios]
 
 ## 📸 Board Screenshot
-![Trello Board](trello-board.png)
+![Trello Board](trello-board.PNG)
 
 ## 📂 Project Status
 Completed test scenarios  
